@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16878241-4013-4726-965f-419bd48453fe" name="Changes" comment=":)">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;juanesgl&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/juanesgl/ECIGMA.git&quot;,
+    &quot;accountId&quot;: &quot;b81bdb79-6de4-4fc8-8e1e-cfba459a9a3a&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ue2oUUQ7zcgfMppf9uqBJ86Uqf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.NeverPlayChess.executor": "Run",
+    "Application.backToThePast.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/UNIVERSIDAD-GIT/Proyectos/ECIGMA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.backToThePast">
+    <configuration name="NeverPlayChess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeverPlayChess" />
+      <module name="ECIGMA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backToThePast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backToThePast" />
+      <module name="ECIGMA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.backToThePast" />
+        <item itemvalue="Application.NeverPlayChess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16878241-4013-4726-965f-419bd48453fe" name="Changes" comment="" />
+      <created>1742594895800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742594895800</updated>
+      <workItem from="1742594897150" duration="6266000" />
+      <workItem from="1742606554148" duration="46000" />
+      <workItem from="1742606630086" duration="3186000" />
+      <workItem from="1742676719034" duration="139000" />
+      <workItem from="1742758619410" duration="444000" />
+      <workItem from="1742759089070" duration="59000" />
+      <workItem from="1742759198982" duration="164000" />
+      <workItem from="1742759379931" duration="5883000" />
+      <workItem from="1742834325223" duration="2367000" />
+      <workItem from="1742836738030" duration="52000" />
+      <workItem from="1742836802554" duration="146000" />
+    </task>
+    <task id="LOCAL-00001" summary="intellij">
+      <option name="closed" value="true" />
+      <created>1742596627285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742596627285</updated>
+    </task>
+    <task id="LOCAL-00002" summary="intellij">
+      <option name="closed" value="true" />
+      <created>1742608962627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742608962627</updated>
+    </task>
+    <task id="LOCAL-00003" summary="codinggg">
+      <option name="closed" value="true" />
+      <created>1742608979156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742608979157</updated>
+    </task>
+    <task id="LOCAL-00004" summary="UVA-13025 - Back to the Past">
+      <option name="closed" value="true" />
+      <created>1742676850158</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742676850158</updated>
+    </task>
+    <task id="LOCAL-00005" summary="UVA-13025 - Back to the Past">
+      <option name="closed" value="true" />
+      <created>1742766874438</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742766874438</updated>
+    </task>
+    <task id="LOCAL-00006" summary="// UVA 117564 - Jumping Mario">
+      <option name="closed" value="true" />
+      <created>1742766893367</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742766893367</updated>
+    </task>
+    <task id="LOCAL-00007" summary="// UVA-11799 - HorrorDash">
+      <option name="closed" value="true" />
+      <created>1742835760675</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742835760676</updated>
+    </task>
+    <task id="LOCAL-00008" summary=":)">
+      <option name="closed" value="true" />
+      <created>1742835819145</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742835819145</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intellij" />
+    <MESSAGE value="codinggg" />
+    <MESSAGE value="UVA-13025 - Back to the Past" />
+    <MESSAGE value="// UVA 117564 - Jumping Mario" />
+    <MESSAGE value="// UVA 11507 - Bender B. Rodríguez Problem" />
+    <MESSAGE value="// UVA-11799 - HorrorDash" />
+    <MESSAGE value=":)" />
+    <option name="LAST_COMMIT_MESSAGE" value=":)" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
